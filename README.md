@@ -1,4 +1,6 @@
 # 此项目本是个付费主题，可是他们放弃了，我不想 Malio 就此消失就放到了这里
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCadwalader307%2FMalio-Theme-for-SSPANEL.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCadwalader307%2FMalio-Theme-for-SSPANEL?ref=badge_shield)
+
 # 不能删改页面底部的 Powered by SSPANEL，不能删改staff页面的任何信息。
 ## 删除Powered by SSPANEL可能会导致你的网站被D，现在 Theme by editXY 可以随意去掉
 
@@ -37,3 +39,7 @@
 ## CREDIT
 基于 [Anankke](https://github.com/Anankke)，[galaxyq](https://github.com/galaxychuck)，[dumplin](https://github.com/dumplin233)，[Rin SAMA](https://github.com/mxihan)，[Miku](https://github.com/xcxnig)，[Tony Zou](https://github.com/ZJY2003)，[Nymph](https://github.com/laurieryayoi) 维护的 [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) 修改
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCadwalader307%2FMalio-Theme-for-SSPANEL.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCadwalader307%2FMalio-Theme-for-SSPANEL?ref=badge_large)
